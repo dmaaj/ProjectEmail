@@ -11,9 +11,7 @@
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <style type="text/css">
-              body {
-                font-family: Lato;
-              }
+              
               #outlook a { padding:0; }
               .ReadMsgBody { width:100%; }
               .ExternalClass { width:100%; }
@@ -70,6 +68,9 @@
             <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
             <style type="text/css">
               @import url(https://fonts.googleapis.com/css?family=Lato:300,400,500,700);
+              body {
+                font-family: Lato;
+              }
             </style>
           <!--<![endif]-->
     
